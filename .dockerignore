@@ -7,6 +7,9 @@ node_modules
 # Docker configuration file
 Dockerfiles
 
+# Script for deployment
+.elasticbeanstalk
+
 # Dev files
 .prettierrc
 .gitignore
